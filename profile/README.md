@@ -31,7 +31,7 @@ Open Engineering Agent provides that layer.
                        │ Reason          │
                        │ Plan            │
                        │ Execute         │
-                       │ Verify         │
+                       │ Verify          │
                        │ Report          │
                        └────────┬────────┘
                                 │
