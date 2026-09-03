@@ -1,6 +1,8 @@
-Open Engineering Agent
+# Open Engineering Agent
 
 The agent layer for Open Engineering.
+
+![Open Engineering Agent hero-banner.png](../assets/hero-banner.png)
 
 Open Engineering Agent provides the intelligent workers that investigate, reason, plan, execute, verify, and communicate across the Open Engineering ecosystem.
 
@@ -8,7 +10,7 @@ An Open Engineering Agent is more than a chatbot and more than an autonomous cod
 
 ⸻
 
-The idea
+## The idea
 
 Modern engineering increasingly involves agents.
 
@@ -17,7 +19,7 @@ Agents can inspect repositories, understand architectures, investigate problems,
 But an agent becomes significantly more useful when it is part of an engineering system rather than an isolated prompt.
 
 Open Engineering Agent provides that layer.
-
+```
                          Open Engineering
                                 │
                                 ▼
@@ -40,14 +42,14 @@ Open Engineering Agent provides that layer.
              └──────────────────┼──────────────────┘
                                 ▼
                        Engineering Outcome
-
+```
 The objective is not to create one universal agent.
 
 The objective is to create an open ecosystem of specialized engineering agents that can work together.
 
 ⸻
 
-What is an Open Engineering Agent?
+## What is an Open Engineering Agent?
 
 An Open Engineering Agent is an identifiable engineering actor with:
 
